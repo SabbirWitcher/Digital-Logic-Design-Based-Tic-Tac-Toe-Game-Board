@@ -5,4 +5,6 @@ The board controls the player turns and assignment of light colors automatically
  
 Bi color LED is used to differentiate between players. Proteus was used to design the PCB and the run simulation before implementing the ICs into the PCB. When one player wins another bi colored LED changes lights up with that player's color to mark his win. For Draw condition a seperate LED will light up. Flip Flops are used to control the turns of the players.
 
+The project contains Two PCBs. One is for the controlling of the game and the other is for player input.
+
 
